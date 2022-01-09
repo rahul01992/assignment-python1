@@ -1,4 +1,7 @@
 # PYHTON ASSIGNMENT 1ST
+# Name= Onkar Ram(cse)
+#SID=21103123
+
 
 # assignment question 1
 a=input("Enter first number")
