@@ -1,4 +1,6 @@
-# Question 1
+# PYHTON ASSIGNMENT 1ST
+
+# assignment question 1
 a=input("Enter first number")
 b=input("Enyter second number")
 c=input("Enter third number")
@@ -8,7 +10,7 @@ print(float(d))
 
 
 
-# Question 2
+# assignment question 2
 standard_deduction=10000
 depend_deduction=3000
 gross=input("enter your gross income")
@@ -20,25 +22,26 @@ print(float(tax))
 
 
 
-# Question 3
+# assignment question 3
 SID=input("Enter your SID")
 Name=input("Enter your name")
 Gender=input("Enter your Gender ")
 Course_name=input("Enter your course name")
 CGPA=float(input("Enter your CGPA"))
-STUDENT=[SID,Name,Gender,Course_name,CGPA]
-print(STUDENT)
+STUDENT=[SID,Name,Gender,Course_name,CGPA]#creating the list of elements
+print(STUDENT)#printing the list
 
-# Question 4
+
+# assignment question 4
 marks=[]
-for i in range(5): #for loop to take input 5 times
+for i in range(5):
     marks.append(input("Enter marks of students"))
 marks.sort()
 print(marks)
 
 
 
-# Question 5
+# assignment question 5
 colour=['Red','Green','White','Black','Pink','Yellow']
 colour.remove(colour[3])
 print("Part a question : ",colour)
