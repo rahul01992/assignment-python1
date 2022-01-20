@@ -1,0 +1,30 @@
+#1st output
+Enter first number65
+Enter second number25
+Enter third number45
+The average of three numbers is : 45.0
+
+#2nd output
+enter your gross income75000
+Enter your number of dependents4
+Your income tax is : 10600.0
+
+#3rd output 
+Enter your SID21103198
+Enter your nameVIVEK
+Enter your Gender M
+Enter your course nameB.TECH
+Enter your CGPA8.4
+['21103198', 'VIVEK', 'M', 'B.TECH', 8.4]
+
+#4th output
+Enter marks of students64
+Enter marks of students82
+Enter marks of students73
+Enter marks of students69
+Enter marks of students53
+['53', '64', '69', '73', '82']
+
+#5th output
+Part a question :  ['Red', 'Green', 'White', 'Pink', 'Yellow']        #1st part
+Part b of question : ['Red', 'Green', 'White', 'Purple', 'Yellow']    #2nd part
